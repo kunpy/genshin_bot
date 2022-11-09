@@ -5,7 +5,7 @@ import random, time
 electro = ['Kuki Shinobu', 'Fishl', 'Yae Miko', 'Shogun Raiden', 'Keqing', 'Lisa', ' Cyno', 'Sara', 'BeiDou ', 'Dori',
            'Travaler electro ']  
 anemo = ['Travaler anemo ', 'Xiao', 'Sayu', 'Sucrose', 'Kazuha', 'Venti', 'Jean']  
-gidro = ['Kokomi', 'Candace', 'Yelan', 'Barbara', 'Mona', 'Niloy', 'Sin Tsyu', 'Tartaglia]  
+gidro = ['Kokomi', 'Candace', 'Yelan', 'Barbara', 'Mona', 'Niloy', 'Sin Tsyu', 'Tartaglia']  
 piro = ['Yoimiya', 'Bennett', 'Kli', 'Xinyan', 'Xiangling', 'Тома', 'Hu Tao', 'Amber',
         'Yan Fey']  
 krio = ['Ayaka', 'Gan Yu', 'Diona', 'Keya', 'Rosary', 'Qiqi', 'Chongyun', 'Shēnhè', 'Aloy',
